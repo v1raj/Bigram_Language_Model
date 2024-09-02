@@ -1,1 +1,1 @@
-# Bigram_Language_Model
+Implementation of bigram language model from Andrej Karpathy's youtube video
